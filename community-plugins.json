@@ -48,6 +48,14 @@
     "description": "Add the current note's reading time to the status bar.",
     "repo": "avr/obsidian-reading-time"
   },
+   {                                                                                                                                                                                                              
+      "id": "mhtml-preview",                                                                                                                                                                                     
+      "name": "MHTML Preview",                                                                                                                                                                                   
+      "author": "Ydong2010",                                                                                                                                                                                     
+      "description": "Preview .mhtml web archives in Obsidian with full visual fidelity. Parses MIME HTML files saved from Chrome/Edge, inlines all resources as data URIs, and renders in a sandboxed iframe.   
+  Zero dependencies.",                                                                                                                                                                                           
+      "repo": "Ydong2010/obsidian-mhtml-preview"                                                                                                                                                                 
+  },    
   {
     "id": "mrj-jump-to-link",
     "name": "Jump to link",
